@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of Her Gracions [sic] Majesty the Queen of Swedeland; concerning the King of Scots, the resigning up the crown and scepter; the lawes and government of all her loyall and liege people, to be inviolably kept and preserved; the contract of marriage; and a remonstrance of her privy councel, concerning the day of coronation. Written by Her Majesties own hand, and published by special authority.</title>
+            <author>Kristina, Queen of Sweden, 1626-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79545</idno>
+            <idno type="STC">Wing C3964</idno>
+            <idno type="STC">Thomason E654_12</idno>
+            <idno type="STC">ESTC R205933</idno>
+            <idno type="EEBO-CITATION">99865155</idno>
+            <idno type="PROQUEST">99865155</idno>
+            <idno type="VID">117392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117392)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E654[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of Her Gracions [sic] Majesty the Queen of Swedeland; concerning the King of Scots, the resigning up the crown and scepter; the lawes and government of all her loyall and liege people, to be inviolably kept and preserved; the contract of marriage; and a remonstrance of her privy councel, concerning the day of coronation. Written by Her Majesties own hand, and published by special authority.</title>
+                  <author>Kristina, Queen of Sweden, 1626-1689.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Queen of Swedeland = Kristina, Queen of Sweden.</note>
+                  <note>Annotation on Thomason copy: The "2" in the imprint date has been crossed out and 1651 written in;  "Febr. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kristina, --  Queen of Sweden, 1626-1689.</term>
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Sweden --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117392:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <p>A DECLARATION Of Her gracious MAJESTY THE QVEEN of SWEDELAND; CONCERNING The King of Scots, the reſigning up the Crown and Scepter; the Lawes and Govern<g ref="char:EOLhyphen"/>ment of all Her loyall and liege People, to be inviolably kept and preſerved; the Contract of Marriage; and a Re<g ref="char:EOLhyphen"/>monſtrance of Her Privy Councel, concerning the Day of <hi>Coronation.</hi>
+            </p>
+            <p>Written by Her Majeſties own Hand, and publiſhed by ſpecial Authority. <add>Febr. 16</add>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> 165<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <add>1651.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117392:2"/>
+            <!-- PDF PAGE 43 -->
+            <pb n="3" facs="tcp:117392:2"/>
+            <!-- PDF PAGE 43 -->
+            <head>THE DECLARATION OF THE Queen of Sweden, concerning the King of SCOTS; And Her Majeſties Re<g ref="char:EOLhyphen"/>ſolution touching the Contract of Mar<g ref="char:EOLhyphen"/>riage, and reſigning up the Crown.</head>
+            <p>WHereas Her Royall Majeſty the Queen of Sweden hath had ſundry Diſputes and Conferences with the Lords of Her Privy Councel, and the Eſtates of that Kingdom, touching the Government of all Her Majeſties Loyal and Liege People; and having been much importun'd by the Lord Ver<g ref="char:EOLhyphen"/>noon, and others of the ſaid Councel, to reſign up the Crown and Government to Prince Palatine
+<pb n="4" facs="tcp:117392:3"/>
+               <!-- PDF PAGE 44 -->Charles, Her Majeſty thought it meet and requiſite, to declare unto all Her loving Subjects, Her graci<g ref="char:EOLhyphen"/>ous Reſolutions and Intentions; a Copy of the ſaid Declaration followeth:</p>
+            <div type="document">
+               <head>A DECLARATION.</head>
+               <opener>
+                  <signed>E. R.</signed>
+               </opener>
+               <p>WHereas many of Our Privy Councel have with prepoſterous rigor, and unreaſonable ſeverity, endeavored to kindle and blow up thoſe horrid flames, the ſparks of Diſcontent, which want not the leaſt of pre-diſpoſed fewell for an abſolute Rebellion; and like ſome Cyclopick Monſters, whom nothing will ſerve to eat and drink, but the fleſh and bloud of Our own Subjects; in whoſe common welfare Our intereſt lies, as much as ſome mens doth in their perturbations: who think they cannot do well but in evil times; As for Our reſign<g ref="char:EOLhyphen"/>ing up the Crown and Government to the Prince Palatine, We are cleerly of another Judgment; And truly it is the unfeigned Deſire of Our Heart, to wear the Crown and Scepter no longer, then that His Glory may be Our End; and His Word Our Rule: And upon that Glorious Account We ſhall leave the ſucceſſe of all to God, who hath many
+<pb n="5" facs="tcp:117392:3"/>
+                  <!-- PDF PAGE 44 -->many wayes to teach Us thoſe Rules of true Rea<g ref="char:EOLhyphen"/>ſon, and peaceable Wiſdom, which is from above, tending moſt to Gods glory, and his Churches good; which we think Our Self ſo much the more hound in Conſcience to attend with the moſt judi<g ref="char:EOLhyphen"/>cious zeal and care, by how much we eſteem the Church above the State; the glory of Chriſt above Our own; and the ſalvation of mens ſouls above the preſervation of their Bodies and Eſtates.</p>
+               <p>Since the publiſhing of this Declaration, there hath been high Diſputes amongſt the Nobility; and ſome have declared for the King of Scots, deſire<g ref="char:EOLhyphen"/>ing a contract of Marriage, the calling in of his per<g ref="char:EOLhyphen"/>ſon, the day prefixed, and the general Attributes thereof to be ſolemnly declared, throughout the ci<g ref="char:EOLhyphen"/>ties of Heidelburgh, Switzaon, and other places: But others of the Nobility are re<g ref="char:EOLhyphen"/>ſolved to the contrary: However her Ma<g ref="char:EOLhyphen"/>jeſty hath declared, that ſhe deſires nothing more then the free Vote, and reall Conſent, of her People: touching which, many of the Nobility inclines to her Majeſties gracious will and pleaſure; but others again ſeem to be of a contrary judgment.</p>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:117392:4"/>
+            <!-- PDF PAGE 45 -->
+            <head>The Copy of a Letter ſent from the Hague in Holland.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe great and unparallel'd Neſt of Bri<g ref="char:EOLhyphen"/>bery is (in part) found out amongſt our cunning, crafty, and ſubtil States, many of whom are now brought upon the ſtage, and will be handſomly cudgel'd and whipt for their Roguery. The Lord Wimmenon is threatned to be let bloud in the Neck<g ref="char:EOLhyphen"/>vein, being now under inquiſition; yet he ſeems not to be danted in the leaſt; but very plainly told his fellow-ſtates (at his Tryal) when they charged him, that they were as guilty as he, and that if they would not con<g ref="char:EOLhyphen"/>feſs, as he did, he both could and would prove it. A ſtrong Argument to ſtave off proſecution! The number of thoſe found out and impeached, are 26. A jolly compa<g ref="char:EOLhyphen"/>ny; but a pack of as arrand Knaves, as ever
+<pb n="7" facs="tcp:117392:4"/>
+               <!-- PDF PAGE 45 -->Europe afforded; And ſtands committed upon theſe enſuing Articles.</p>
+            <p n="1">1 That they had held correſpondency with the Enemies of the State. 2 That they had converted great ſums of money to their own private uſe and intereſt. 3 That they had been partial in levying of Taxes, by favouring the Rich, and oppreſſing the Poor. 4 That they had moſt trayterouſly endea<g ref="char:EOLhyphen"/>vored to ſubvert the very Rights and Beings of the People, by taking of great and intollerable Bribes, and continuing of heavy and burdenſome Taxes, &amp;c.</p>
+            <p>Theſe Articles of Impeachment being read, the priſoners at the Bar were required to anſwer to the Charge; which they did; And in defence thereof, began ſeveral eloquent ſpeeches, proteſting their innoceney in any of the ſaid matters of Fact or Crimes laid to their charge: But upon the exami<g ref="char:EOLhyphen"/>nation of Witneſſes, and Evidence given in, it was plainly manifeſted, That they were guilty of thoſe Crimes laid to their Charge; and in order thereun<g ref="char:EOLhyphen"/>to, they were remanded back from the Bar, to the place of confinement; another Day being ſet apart for their further Tryall. This purge will greatly ſtir the ill humors of a corrupted Politick Body. And it will be very requiſite, this Spring-time, to wring off
+<pb n="8" facs="tcp:117392:5"/>
+               <!-- PDF PAGE 46 -->the Necks of theſe fine-fether'd Birds and Peacocks. The calling in of your Letters of Repriſal, gives great ſatisfaction to all in general, and ſeeds us with hopes of good ſucceſſe of our Embaſſie. Our dayly prayer is, that we may agree with you: if not, we are unhappy.</p>
+            <list>
+               <head>The Names of thoſe that are to be tryed upon the precedent Articles of<hi>High-Treaſon.</hi>
+               </head>
+               <item>The Lord <hi>Mouſch.</hi>
+               </item>
+               <item>The Lord <hi>Ondenbock.</hi>
+               </item>
+               <item>The Lord <hi>Wimmenon.</hi>
+               </item>
+               <item>The Lord <hi>Van Aſperen.</hi>
+               </item>
+               <item>The Lord <hi>Vervoorden.</hi>
+               </item>
+               <item>The Lord <hi>Ranſwick.</hi>
+               </item>
+               <item>The Lord <hi>Arnhem.</hi>
+               </item>
+               <item>The Lord <hi>Bernt Van.</hi>
+               </item>
+               <item>The Lord <hi>Verbolt.</hi>
+               </item>
+               <item>The Lord <hi>Cappelle.</hi>
+               </item>
+               <item>The Lord <hi>Lentelo.</hi>
+               </item>
+               <item>The Lord <hi>Brouckhorſt.</hi>
+               </item>
+               <item>The Lord <hi>Bercham.</hi>
+               </item>
+               <item>The Lord <hi>Lucaſſen.</hi>
+               </item>
+               <item>The Lord <hi>Rhynſwode.</hi>
+               </item>
+               <item>The Lord <hi>Bormwal.</hi>
+               </item>
+               <item>The Lord <hi>Hardenbreck.</hi>
+               </item>
+               <item>The Lord <hi>Ploos.</hi>
+               </item>
+               <item>The Lord <hi>Loo.</hi>
+               </item>
+               <item>The Lord <hi>Ripperde.</hi>
+               </item>
+               <item>The Lord <hi>Andelo.</hi>
+               </item>
+               <item>The Lord <hi>Moleard.</hi>
+               </item>
+               <item>The Lord <hi>Verdria.</hi>
+               </item>
+               <item>The Lord <hi>Ondenbartſhol.</hi>
+               </item>
+               <item>The Lord <hi>Intrina.</hi>
+               </item>
+               <item>The Lord <hi>Egbert.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
